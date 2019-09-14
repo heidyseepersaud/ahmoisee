@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bootheedus.marceloc.net/sitemap.xml
